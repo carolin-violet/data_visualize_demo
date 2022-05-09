@@ -1,4 +1,6 @@
-# front
+# 基于vue+echarts的数据可视化小练习
+
+参考b站视频链接：https://www.bilibili.com/video/BV1bh41197p8
 
 ## Project setup
 ```
